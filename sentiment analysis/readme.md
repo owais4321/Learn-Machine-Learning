@@ -5,6 +5,7 @@ Sentiment analysis is a process that uses AI to recognize positive, negative and
 1. Getting Insight from social media posts, comments and messages
 2. Getting Insight from survey responses 
 3. Getting Insight from product reviews
+<BR>
 It is used to make data driven decisions
 ## How we have done it?
 Here we have used a dataset with 35,000 tweets to train the model for indenitfying tweets with positive and negative sentiment
