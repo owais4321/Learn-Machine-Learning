@@ -1,2 +1,2 @@
-#Learn AI and ML with Python
-##Association Rule
+# Learn AI and ML with Python
+## Association Rule
