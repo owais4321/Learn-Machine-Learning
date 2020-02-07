@@ -39,7 +39,15 @@ git commit -m 'name of commit'
 
 ## What to contribute
 Following contribution can done in this project.
-1. Translate Readme into multiple languages.
-2. Translate intstructions in jupyter notebook and comments into multiple languages.
-3. Add more algorithm.
-4. Add Code for these and other algorithm in different languages.
+1.Update readme file for association rules how they work and what association rules have been used and thier overview
+2.Update readme file for classification how it works and what classification algorithm have been used and thier overview
+3.Update readme file for clustering how it works and what clustering algorithm have been used and thier overview
+4.Update readme file for text classification how it works and what classification algorithm have been used and thier overview
+5.Update readme file for sentiment analysis how it works and what classification algorithm have been used and thier overview
+6.Translate Readme into multiple languages.
+7. Translate intstructions in jupyter notebook and comments into multiple languages.
+8. Add New Algorithm into classification
+9. Add new Algorithm into clustering
+10. Add new Algorithm for text classification
+11. Add new Algorithm for sentiment analysis
+12. Update readme for dataset and give description of datasets
